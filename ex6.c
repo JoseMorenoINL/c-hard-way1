@@ -15,6 +15,7 @@ int main (int argc, char *argv[])
     printf("I have a First Name %s.\n", first_name);
     printf("I have a Last Name %s.\n", last_name);
     printf("My whole name is %s %c. %s.\n", first_name, initial, last_name);
+    printf("Test");
     return 0;
 }
 
